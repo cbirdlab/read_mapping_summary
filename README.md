@@ -112,7 +112,7 @@ sbatch ../../rroberts_thesis/scripts/bam_processing/mappedReadStats.sbatch fltrB
 
 ### Data Wrangled
 
-- I used this script to read-in/join fastqc and mapped reads data [`sequencing_calculations.R`](https://github.com/cbirdlab/rroberts_thesis/blob/main/sequencing_calculations/sequencing_calculations.R)
+- I used this script to read-in/join fastqc and mapped reads data on Rstudio [`sequencing_calculations.R`](https://github.com/cbirdlab/rroberts_thesis/blob/main/sequencing_calculations/sequencing_calculations.R)
 
 - Funtions to read in the data were sourced from [`read_multiqc.R`](https://github.com/cbirdlab/read_multiqc/blob/main/read_multiqc.R)
 
